@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2024 LLM GUI Automation Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER AND SAFETY NOTICE:
+
+This software is designed to automate GUI interactions using AI/LLM technology.
+Users are solely responsible for:
+
+1. SAFE USAGE: Testing in safe environments before production use
+2. DATA PROTECTION: Ensuring no sensitive data is exposed during automation
+3. SYSTEM SECURITY: Maintaining secure API keys and configurations
+4. COMPLIANCE: Following all applicable laws and regulations
+5. SUPERVISION: Monitoring automated processes to prevent unintended actions
+
+The authors and contributors of this software:
+- Make NO WARRANTIES about the safety, reliability, or suitability of this software
+- Are NOT RESPONSIBLE for any damages, data loss, or security breaches
+- STRONGLY RECOMMEND thorough testing before any production use
+- ADVISE AGAINST use with sensitive, critical, or production systems
+
+By using this software, you acknowledge that:
+- GUI automation can be unpredictable and may cause unintended actions
+- AI/LLM responses may be incorrect or potentially harmful
+- You assume all risks associated with automated GUI interactions
+- You will implement appropriate safeguards and monitoring
+
+SPECIAL CONSIDERATIONS:
+
+- API Usage: This software may incur costs through API usage (OpenAI, etc.)
+- Privacy: Screenshots and prompts may be sent to third-party AI services
+- Security: Ensure API keys are kept secure and never committed to version control
+- Testing: Always test with non-critical applications and data first
+
+For questions about safe usage, please refer to the documentation and
+start with simple, non-critical automation tasks.
