@@ -161,7 +161,7 @@ ENV_EXAMPLE = """
 # .env Datei - Kopieren Sie diese Vorlage und fügen Sie Ihre API-Schlüssel ein
 
 # OpenRouter API-Schlüssel (empfohlen - kostenlose Modelle verfügbar)
-OPENROUTER_API_KEY=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
+OPENROUTER_API_KEY=
 
 # Google Gemini API-Schlüssel (empfohlen - kostenlose Modelle verfügbar)
 GOOGLE_API_KEY=your-google-api-key-here
